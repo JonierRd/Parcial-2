@@ -1,0 +1,166 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{    
+    
+    padding: 15px;
+    background-color: #FFFFFF;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0;
+    padding: 30px;
+    display: flex;
+}
+.titulo1{
+    width: 48%;
+    height: 300px;
+    margin-left: 10px;
+    padding: 10px;
+    color: #223344;
+    margin-top: 100px;
+}
+.imagen1{
+    position: relative;
+    top: -190px;
+    padding-left: 5px;
+    width: 100px ;
+    height: 100px ;
+    right: 30px;
+}
+.tex1{
+    position: relative;
+    top: -170px;
+    right: 30px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    margin-bottom: 15PX;
+    color: #223344;
+}
+.tittle{
+    position: relative;
+    top: -160px;
+    right: 30px;
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    margin-bottom: 15px;
+    line-height: 70px;
+}
+.parte2{
+    margin: 0%;
+   padding: 12px;
+    margin-top: -130px;
+    margin-left: 10px;
+}
+.parrafo1{
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+    margin-bottom: 15px;
+    line-height: 25px;
+    color: #909193;
+}
+.boton{
+    font-family: "Poppins", sans-serif;
+    background-color: blue;
+    color: #FFFFFF;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+.boton2{
+    font-family: "Poppins", sans-serif;
+    background-color: transparent;
+    color: blue;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px; 
+    border: none;
+    text-decoration: underline;
+}
+.lista{
+    position: relative;
+    top: 20px;
+    list-style: none;
+    font-size: 15px;
+    color: #909193;
+} 
+
+.lista li {
+    display: inline;
+}
+.lista2{
+    position: relative;
+    right: -50px;
+}
+.vistoa{
+    position: relative;
+    top: 5px;
+width: 20px;
+}
+.vistoa2{
+    position: relative;
+    top: 5px;
+width: 20px;
+}
+.parte3{
+    padding: 10px;
+}
+.lista3{
+   position: relative;
+   top: -530px;
+   right: 250px;
+    text-align: right;
+    color: #223344;
+}
+.listain{
+    display: inline;
+    
+}
+.parrafolista{
+    font-size: 15px;
+    margin-right: 40px;
+    display: inline;
+    font-family: "Poppins", sans-serif;
+    color: #909193;
+}
+.sol{
+    border-bottom: #223344;
+    position: relative;
+    top: 5px;
+    right: -190px;
+    margin-right: -10px;
+}
+.sol2{
+    border-radius: 30px;
+    width: 23px;
+    background-color: white;
+}
+
+.text{
+    color: black;
+}
+.ultimaparte1{
+    
+   margin-top: -550px;
+    padding: 0px;
+    text-align: right;
+}
+.photo{
+    margin: 0;
+    list-style: none;
+    position: relative;
+    top: 50px;
+    right: 70px;
+    width: 550px;
+    height: 500px;
+}
+.espacio{
+    margin: 0;
+    padding: 19px;
+    background-color: transparent;
+}
+
